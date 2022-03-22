@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+<table border="2">
+    <tr>
+        <td colspan="2"><b> Full Name:</b> Antonio R. Salamanes Jr.</td>
+    </tr>
+
+    <tr>
+        <td colspan="2"><b>Address:</b> Unit 5A V.Rama Avenue, Brgy. Calamba, Cebu City</td>
+    </tr>
+
+    <tr>
+        <td colspan="2"><b>Age:</b> 25</td>
+    </tr>
+
+    <tr>
+        <td colspan="2"><b>Gender:</b> Male</td>
+    </tr>
+
+    <tr>
+        <td colspan="2"><b>Educational Background</b></td>
+    </tr>
+
+    <tr>
+        <td colspan="2"> i. Labangon Bliss Elementary School </td>
+    </tr>
+
+    <tr>
+        <td colspan="2"> ii. University of Southern Philippines Foundation </td>
+    </tr>
+
+    <tr>
+        <td colspan="2"> iii. University of Southern Philippines Foundation </td>
+    </tr>
+
+    <tr>
+        <td colspan="2"><b>Work Experience</b></td>
+    </tr>
+
+    <tr>
+        <td> Accenture </td>
+        <td> Aug 1420 -- Mar 2023 </td>
+    </tr>
+
+    <tr>
+        <td> Forty Degrees Celsius </td>
+        <td> Jun 2069 -- Present </td>
+    </tr>
+</table> 
+</body>
+</html>
