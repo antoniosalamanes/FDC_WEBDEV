@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <title >My Resume </title>
 </head>
+
 <body>
 <table border="2">
     <tr>
@@ -54,5 +52,59 @@
         <td> Jun 2069 -- Present </td>
     </tr>
 </table> 
+
+<table border=3>
+    <div> 
+         <tr></tr>
+             <td rowspan=4> <img src="/FDCI_WEBDEV/img/tonton.jfif"> </td>
+             <td> <b> Full Name:</b> Antonio R. Salamanes Jr. </td>
+          <tr>
+            <td> <b>Address:</b> Unit 5A V.Rama Avenue, Brgy. Calamba, Cebu City <td>
+         </tr>
+        
+
+         <tr>
+              <td> <b>Age:</b> 25 <td>
+         </tr>
+
+
+          <tr>
+             <td> <b>Gender:</b> Male <td>
+         </tr>  
+    </div> 
+
+
+    <tr>
+        <td> A </td>
+    </tr>
+
+<!-- 
+    <tr></tr>
+
+
+    <tr></tr>
+
+
+    <tr></tr>
+
+
+    <tr></tr>
+
+
+    <tr></tr>
+
+
+    <tr></tr>
+
+
+    <tr></tr>
+
+
+    <tr></tr> -->
+
+
+</table>
+
+
 </body>
 </html>
