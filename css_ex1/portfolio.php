@@ -73,6 +73,7 @@
         }
 
         #address{
+            font-family: Tahoma;
             text-align:left;
         }
 
@@ -103,7 +104,8 @@
     <div id="resume-container">
         <div id="resume-item1" class="resume">
             <h3> ANTONIO <span id="family-name"> SALAMANES JR. </span> </h3>
-                <p id="address">CEBU CITY, CEBU 6000 (+63) 9760402593 • antonio.salamanes.jr@gmail.com</p>
+                <p id="address">CEBU CITY, CEBU 6000 (+63) 9760402593 • antonio.salamanes.jr@gmail.com
+                <p id="aboutme">A Performance-driven Software QA tester possessing 3 years of extensive industry experience in Manual & Automated Testing. Adept in testing products in web design, mobile apps.</p>
         </div>
 
         <div id="resume-item2" class="resume">
